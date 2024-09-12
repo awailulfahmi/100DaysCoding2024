@@ -1,0 +1,11 @@
+package day.pkg12;
+
+public class Day12 {
+    public static2void main(String[] args) {
+   int umur = 18;
+   //int ( integar) data type berbentuk bilangan bulat atau numerik 
+yang umumnya digunakan untuk menyimpan angka tanpa komponen pecahan 
+dengan rentang angka -707, 0, hingga 707. 
+        System.out.println("umurku : "+ umur);
+    }
+}
