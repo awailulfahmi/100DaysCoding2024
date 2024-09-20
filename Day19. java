@@ -1,0 +1,13 @@
+package day19;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        String nama = "Muhammad awailul fahmi";
+        String alamat = "jln hj andi depu";
+        System.out.println("Perkenalkan nama saya "+nama);
+        System.out.println("alamat saya "+alamat);
+        
+    }
+    
+}
