@@ -8,7 +8,8 @@ public class soal3 {
         int barang = ab.nextInt();
         System.out.println("barang yang di jual setiap minggu");
         int jual = ab.nextInt();
-        System.out.println("sisa barang di guadang setelah satu minggu penjualan "+(barang - jual));
+        barang -= jual;
+        System.out.println("sisa barang di guadang setelah satu minggu penjualan "+barang);
         
         
     }
