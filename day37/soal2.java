@@ -10,6 +10,7 @@ public class soal2 {
         int a = bc.nextInt();
         System.out.println("jumlah pohon yang di tambahkan setelah satu bulan");
         int b = bc.nextInt();
-        System.out.println("total pohon  dikebun "+(a+b)); 
+        a += b;
+        System.out.println("total pohon  dikebun "+a); 
 }
 }
